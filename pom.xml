@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>cn.z9n</groupId>
-    <artifactId>learn</artifactId>
+    <artifactId>http-encryption-filter</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>learn</name>
+    <name>http-encryption-filter</name>
     <properties>
         <java.version>1.8</java.version>
     </properties>
